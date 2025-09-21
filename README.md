@@ -22,4 +22,4 @@ Welcome! This repository contains a selection of my quantitative trading project
 Each project folder includes a `requirements.txt` for easy setup.
 
 ## 📬 Contact
-For questions or collaboration, reach out via Discord: [your-discord-handle]
+For questions or collaboration, reach out via Discord: `skeptixity`
